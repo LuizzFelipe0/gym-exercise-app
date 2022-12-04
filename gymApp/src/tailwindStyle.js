@@ -5,9 +5,10 @@ export const style = {
     heading: `text-5xl font-bold text-center text-white	p-3 my-3 hover:text-gray duration-300 `,
     form: `flex justify-start`,
     input: `border-4 border-black rounded-md p-2 w-11/12 text-xl`,
-    button: `border-4 border-black p-2 ml-2 bg-white rounded-lg text-red-600 hover:text-red-700 duration-300 `,
+    button: `border-4 border-black p-2 ml-2 rounded-lg text-white hover:text-red-700 duration-300 `,
     count: `text-center p-2 font-bold` ,
-    author: `text-center mt-4 p-4 text-white `
+    p: `text-center p-2 text-white `,
+
     
 };
 
